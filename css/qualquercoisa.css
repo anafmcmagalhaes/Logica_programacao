@@ -1,0 +1,35 @@
+		h1{
+			
+		}
+
+		h2{
+			font-size: 55px; color: royalblue; font-family: Impact;
+		}
+		.color{
+			color: lime;
+		}
+
+		.maiuscula{
+
+			text-transform: uppercase;
+		}
+		.titulo{
+			font-family:georgia;font-size: 87px; color: tomato; text-align: center;
+		}
+		.texto1{
+			text-align: center; align-content: center; color: aqua;
+		}
+		.titulo_vermelho{
+			color: red;
+
+		}
+		.titulo_blue{
+			color: royalblue;
+		}
+
+		.texto_normal{
+			font-family: calibri; font-size: 12px; 
+		}
+
+
+	
